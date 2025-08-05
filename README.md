@@ -1,6 +1,6 @@
 # **THE MET — Museum Website**
 
- [**Demo Link**](https://rkolunov.github.io/landing-pages/)
+ [**Demo Link**](https://rkoltunov.github.io/landing-pages/)
 
  [**Figma Model**](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET?type=design&node-id=8590-537&mode=design&t=0XdKeA1jOHV0bp9D-0)
 
